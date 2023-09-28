@@ -16,3 +16,19 @@ header {
     display: inline-block;
 }
 
+.myskills {
+    background-color: aquamarine;
+}
+
+.projectsdone {
+    background-color: aquamarine;
+}
+
+.disclaimer {
+    color: red;
+}
+
+.contactinfo {
+    text-align: end;
+    background-color: white;
+}
