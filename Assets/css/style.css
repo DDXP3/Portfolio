@@ -29,15 +29,15 @@ header {
 }
 
 .img1 {
-    /* height: 515px; */
+    height: 515px;
 }
 
 .img2 {
-    /* height: 515px; */
+    height: 515px;
 }
 
 .img3 {
-    /* height: 800px; */
+    height: 800px;
 }
 
 .disclaimer {
@@ -53,6 +53,6 @@ header {
     
 }
 
-@media screen and (min-width: 400px){
+@media screen and (min-width: 500px){
     
 }
